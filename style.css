@@ -33,6 +33,11 @@ div {
     background-color: lightgreen;
 }
 
+.fot div:first-of-type {
+    font-weight: bold;
+    background-color: #efc;
+}
+
 .nth2 *:nth-child(-n+3) {
     font-weight: bold;
     background-color: #fcc;
