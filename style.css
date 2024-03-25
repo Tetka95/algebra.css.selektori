@@ -52,3 +52,8 @@ div {
     font-weight: bold;
     background-color: #ccf;
 }
+
+.ntt div.kk:nth-of-type(odd) {
+    font-weight: bold;
+    background-color: orange;
+}
