@@ -78,3 +78,13 @@ p.fl::first-letter {
 p.fline::first-line {
     background-color: lightseagreen;
 }
+
+p.flfl::first-letter {
+    color: blue;
+    font-size: xx-large;
+}
+
+p.flfl::first-line {
+    color: blueviolet;
+    font-variant: small-caps;
+}
