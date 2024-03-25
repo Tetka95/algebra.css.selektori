@@ -57,3 +57,20 @@ div {
     font-weight: bold;
     background-color: orange;
 }
+
+p.ab::after {
+    content: " - Zapamti ovo !!";
+    color: red;
+    background-color: yellow;
+}
+
+p.ab::before {
+    content: "Zapamti ovo -->";
+    color: green;
+    background-color: yellow;
+}
+
+p.fl::first-letter {
+    color: purple;
+    font-size: xx-large;
+}
