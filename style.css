@@ -101,3 +101,8 @@ p.flfl::first-line {
 .geek2 {
     list-style-type: lower-roman;
 }
+
+::selection {
+    color: orchid;
+    background-color: aquamarine;
+}
