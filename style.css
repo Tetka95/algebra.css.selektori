@@ -27,3 +27,8 @@ div {
     font-weight: bold;
     background-color: lightgreen;
 }
+
+.nth1 div:nth-child(odd) {
+    font-weight: bold;
+    background-color: lightgreen;
+}
