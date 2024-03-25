@@ -42,3 +42,13 @@ div {
     font-weight: bold;
     background-color: #fcc;
 }
+
+.oot *:only-of-type {
+    font-weight: bold;
+    background-color: magenta;
+}
+
+.nthl div:nth-last-of-type(2) {
+    font-weight: bold;
+    background-color: #ccf;
+}
