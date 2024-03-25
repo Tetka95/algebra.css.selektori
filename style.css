@@ -88,3 +88,8 @@ p.flfl::first-line {
     color: blueviolet;
     font-variant: small-caps;
 }
+
+::marker {
+    color: lightskyblue;
+    font-size: xx-large;
+}
