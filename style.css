@@ -74,3 +74,7 @@ p.fl::first-letter {
     color: purple;
     font-size: xx-large;
 }
+
+p.fline::first-line {
+    background-color: lightseagreen;
+}
