@@ -32,3 +32,8 @@ div {
     font-weight: bold;
     background-color: lightgreen;
 }
+
+.nth2 *:nth-child(-n+3) {
+    font-weight: bold;
+    background-color: #fcc;
+}
